@@ -1,0 +1,72 @@
+The units are unchanged from the original values
+
+Original variable position human friendly name 
+1 mean time body linear acceleration X
+2 mean time body linear acceleration Y
+3 mean time body linear acceleration Z
+4 time body acceleration standard deviation X
+5 time body acceleration standard deviation Y
+6 time body acceleration standard deviation Z
+41 time gravity acceleration mean X
+42 time gravity acceleration mean Y
+43 time gravity acceleration mean Z
+44 time gravity acceleration standard deviation X
+45 time gravity acceleration standard deviation Y
+46 time gravity acceleration standard deviation Z
+81 time body acceleration Jerk mean X
+82 time body acceleration Jerk mean Y
+83 time body acceleration Jerk mean Z
+84 time body acceleration Jerk standard deviation X
+85 time body acceleration Jerk standard deviation Y
+86 time body acceleration Jerk standard deviation Z
+121 time body gyro meanX
+122 time body gyro meanY
+123 time body gyro meanZ
+124 time body gyro  standard deviation X
+125 time body gyro  standard deviation Y
+126 time body gyro  standard deviation Z
+161 time body gyro Jerk mean X
+162 time body gyro Jerk mean Y
+163 time body gyro Jerk mean Z
+164 time body gyro Jerk standard deviation X
+165 time body gyro Jerk standard deviation Y
+166 time body gyro Jerk standard deviation Z
+201 time body acceleration Mag mean 
+202 time body acceleration Mag standard deviation 
+214 time gravityAccMag mean 
+215 time gravityAccMag standard deviation 
+227 time body acceleration JerkMag mean 
+228 time body acceleration JerkMag standard deviation 
+240 time body gyro Mag mean 
+241 time body gyro Mag standard deviation 
+253 time body gyro JerkMag mean 
+254 time body gyro JerkMag standard deviation 
+266 fast fourier transform body  acceleration mean X
+267 fast fourier transform body  acceleration mean Y
+268 fast fourier transform body  acceleration mean Z
+269 fast fourier transform body  acceleration standard deviation X
+270 fast fourier transform body  acceleration standard deviation Y
+271 fast fourier transform body  acceleration standard deviation Z
+345 fast fourier transform body AccJerk mean X
+346 fast fourier transform body AccJerk mean Y
+347 fast fourier transform body AccJerk mean Z
+348 fast fourier transform body AccJerk standard deviation X
+349 fast fourier transform body AccJerk standard deviation Y
+350 fast fourier transform body AccJerk standard deviation Z
+424 fast fourier transform body gyro mean X
+425 fast fourier transform body gyro mean Y
+426 fast fourier transform body gyro mean Z
+427 fast fourier transform body Gyro standard deviation X
+428 fast fourier transform body Gyro standard deviation Y
+429 fast fourier transform body Gyro standard deviation Z
+503 fast fourier transform body AccMag mean
+504 fast fourier transform body AccMag standard deviation 
+516 fast fourier transform body acceleration JerkMag mean
+517 fast fourier transform body  acceleration JerkMag standard deviation 
+529 fast fourier transform body gyro Mag mean
+530 fast fourier transform body gyro Mag standard deviation 
+542 fast fourier transform body gyro JerkMag mean
+543 fast fourier transform body  gyro JerkMag standard deviation 
+
+
+The final averages for each column were calculated using the aggregate function. The grouping elements were the subject and activity. 
